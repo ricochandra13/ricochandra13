@@ -32,8 +32,7 @@ Here are some ideas to get you started:
   <summary><b>Connect with me</b></summary>
   <p align="center">
     <i>Let's connect and chat!</i><br><br>
-    <a href="https://t.me/ys_hp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="@ys_hp" height="30" width="40" />
-    <a href="https://twitter.com/teman_bahagia" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="teman_bahagia" height="30" width="40" /></a>
+    <a href="https://t.me/kuze_x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="@ys_hp" height="30" width="40" />
     </a>
   </p>
 </details>
