@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Spray Company <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img align="right" alt="GIF" height="125px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" />
+<img align="right" alt="GIF" height="125px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
 
-**Personal Stuffs:**
+**My Skill:**
 - 🔭 I’m currently working on my side project
 - 🌱 I’m currently learning typescript
 - ✨ Interested in backend-ish things 
@@ -25,14 +25,15 @@ Here are some ideas to get you started:
 
 <details>
   <summary><b>My Github Stats</b></summary>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=spraycompany&show_icons=true&hide_border=true&hide=issues" alt="🦉Yoga Sakti's github stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=spraycompany&show_icons=true&theme=radical" alt="Spray Company">
 </details>
 
 <details>
-  <summary><b>Connect with me</b></summary>
-  <p align="center">
-    <i>Let's connect and chat!</i><br><br>
-    <a href="https://t.me/kuze_x" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="@ys_hp" height="30" width="40" />
-    </a>
-  </p>
+  <summary><b>Top Langs</b></summary>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spraycompany" alt="Spray Company">
+</details>
+
+<details>
+  <summary><b>Graph</b></summary>
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=spraycompany&theme=dracula" alt="Spray Company">
 </details>
