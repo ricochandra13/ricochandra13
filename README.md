@@ -13,15 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Spray Company <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hi there, I'm Rico Chandra <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <img align="right" alt="GIF" height="125px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" />
 
-**My Skill:**
+**Personal Stuffs:**
 - 🔭 I’m currently working on my side project
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning Backend Developer
 - ✨ Interested in backend-ish things 
-- 🤔 Looking for help with my life
 
 <details>
   <summary><b>My Github Stats</b></summary>
